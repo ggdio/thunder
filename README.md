@@ -30,7 +30,7 @@ git clone https://github.com/ggdio/thunder.git
 
 ## Contact
 #### Developer/Company
-* Homepage: [Sourcesphere](http://sourcesphere.com.br)
-* e-mail: sourcesphere@gmail.com
+* Homepage: [Dio - Software Engineer](http://guilhermedio.com)
+* e-mail: ggrdio@gmail.com
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ggdio&url=https://github.com/ggdio/thunder&title=Thunder%20CEP&language=&tags=github&category=software) 
